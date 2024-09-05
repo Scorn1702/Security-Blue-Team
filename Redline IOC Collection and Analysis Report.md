@@ -32,7 +32,8 @@ To ensure comprehensive coverage, I carefully reviewed the notes provided by the
 Using PowerShell, I gathered the necessary information (file names, file sizes, MD5 hashes, and SHA-1 hashes) from the malware samples provided. The following steps outline the process:
 
 1. **Analyze File: 03....**  
-    Collected relevant IOC data using PowerShell. IOC-Pictures/Pasted image 20240903225634.png
+    Collected relevant IOC data using PowerShell. ![Pasted image 20240903225634](https://github.com/user-attachments/assets/c0fe969e-8fe5-40f9-9aeb-8a34e7ca5115)
+
     
 2. **Store IOCs in Mandiant**  
     The extracted information was then input into Mandiant IOCs. ![[Pasted image 20240903225714.png]] ![[Pasted image 20240903225837.png]] ![[Pasted image 20240903225941.png]]

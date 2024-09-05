@@ -38,7 +38,6 @@ Using PowerShell, I gathered the necessary information (file names, file sizes, 
 
 2. **Repeat for Additional Files**  
     The same method was applied to collect IOC data for other files. 
-    ![Pasted image 20240903230705](https://github.com/user-attachments/assets/f184e770-9616-46c7-b9ad-3403390d5ea7)
 
 3. **Store IOCs in Mandiant**  
     The extracted information was then input into Mandiant IOCs. 

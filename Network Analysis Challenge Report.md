@@ -9,6 +9,7 @@ Alexis is a fictional cybersecurity company with a large employee base. A securi
 
 - **MAC Address:** 08:00:27:3d:27:5d
 - **Analysis:** The MAC address of the attacker was identified using Wireshark.
+https://github.com/Scorn1702/Security-Blue-Team/blob/main/netimages/AttackerMAC.PNG
 
 ### 2. Type of Attack
 
@@ -19,16 +20,21 @@ Alexis is a fictional cybersecurity company with a large employee base. A securi
 
 - **File Name:** Alevis_Employee_Information_Chart.csv
 - **Analysis:** The file was identified through an analysis of FTP packets and following the data stream.
+https://github.com/Scorn1702/Security-Blue-Team/blob/main/netimages/FTPfiletransfer.PNG
 
 ### 4. Department of Borden Danilevich
 
 - **Department:** Sales
 - **Analysis:** By examining the downloaded CSV file, specifically entry 292, it was determined that Borden Danilevich is part of the Sales department.
+https://github.com/Scorn1702/Security-Blue-Team/blob/main/netimages/csvdownload.PNG
+https://github.com/Scorn1702/Security-Blue-Team/blob/main/netimages/BordenDanilevich.PNG
 
 ### 5. SSH Password of the Domain Administrator
 
 - **Password:** gMR<4eXf]e6W
 - **Analysis:** The SSH password for the Domain Administrator was discovered in entry 478 of the CSV file.
+https://github.com/Scorn1702/Security-Blue-Team/blob/main/netimages/admin.PNG
+
 
 ## Summary
 
